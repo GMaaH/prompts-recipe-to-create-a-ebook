@@ -18,8 +18,5 @@ seguem abaixo.
 - Imagens geradas via ImagineArt
 - Diagramação Illustrator
 
-## 📚 Materiais
 
-- Imagens utilizadas em `assets`
-- ebook gerado durante as aulas em `output`
 
