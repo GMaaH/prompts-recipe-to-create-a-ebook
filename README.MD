@@ -19,4 +19,4 @@ seguem abaixo.
 - Diagramação Illustrator
 
 
-(output)
+jobs.<job_id>.outputs
