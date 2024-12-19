@@ -18,5 +18,5 @@ seguem abaixo.
 - Imagens geradas via ImagineArt
 - Diagramação Illustrator
 
-[Output](prompts-recipe-to-create-a-ebook/output/capa.png)
+[Output]()
 
