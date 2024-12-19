@@ -18,5 +18,5 @@ seguem abaixo.
 - Imagens geradas via ImagineArt
 - Diagramação Illustrator
 
-[Output](https://github.com/GMaaH/prompts-recipe-to-create-a-ebook/blob/main/output/Mindfulness%20O%20Poder%20do%20Momento%20Presente.pdf)
+[Ebook](https://github.com/GMaaH/prompts-recipe-to-create-a-ebook/blob/main/output/Mindfulness%20O%20Poder%20do%20Momento%20Presente.pdf)
 
